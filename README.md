@@ -171,7 +171,6 @@ I’m interested in collaborating on projects related to:
 
 ## 📫 Connect
 
-* GitHub: [github.com/goapu](https://github.com/goapu)
 * LinkedIn: [linkedin.com/in/dilip-goswami-853018108](https://www.linkedin.com/in/dilip-goswami-853018108/)
 * ResearchGate: [researchgate.net/profile/Dilip-Goswami-2](https://www.researchgate.net/profile/Dilip-Goswami-2?ev=hdr_xprf)
 * Email: [gshubro@yahoo.com](mailto:gshubro@yahoo.com)
