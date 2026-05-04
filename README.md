@@ -1,4 +1,4 @@
-# Hello everyone, I'm Dilip Goswami 👋
+# Hello everyone, I'm Dilip Goswami
 
 I’m a **Computer Vision Engineer** based in Berlin, Germany. I hold an M.Sc. in **Geodesy and Geoinformation Science** from **Technische Universität Berlin**, with a focus on **photogrammetric computer vision and image processing**.
 
