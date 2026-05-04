@@ -1,10 +1,10 @@
 # Hi, I'm Dilip Goswami 👋
 
-### Computer Vision Engineer | 3D Vision | Medical Image Analysis | M.Sc. TU Berlin
+### Computer Vision Engineer | 3D Vision | Medical Image Analysis | M.Sc., TU Berlin
 
 I am a **Computer Vision Engineer** based in Berlin, Germany, with an M.Sc. in **Geodesy and Geoinformation Science** from **Technische Universität Berlin**.
 
-My work focuses on **3D computer vision, medical image analysis, geometric registration, visual understanding, and deep learning**. I have experience developing computer-vision and machine-learning workflows for medical imaging, AR-guided surgery, visual anonymization, and spatial-data applications.
+My work focuses on **3D computer vision, medical image analysis, geometric registration, visual understanding, and deep learning**. I have experience with computer-vision and machine-learning workflows for medical imaging, AR-guided surgery, visual anonymization, and spatial-data applications.
 
 ---
 
@@ -95,12 +95,6 @@ My work focuses on **3D computer vision, medical image analysis, geometric regis
 * **Minors:** Real-Time Multi-Sensor Navigation, Geoinformation Technology, Adjustment Computation
 * **Master’s Thesis:** *Automatic Registration of Preoperative and Intraoperative Views for AR-Guided Endonasal Surgery*
 * **Academic Project:** Real-Time Hand Tracking and Monocular Depth Estimation Using a Smartphone Camera
-
-### B.Sc. Urban and Regional Planning
-
-**Khulna University of Engineering & Technology, Bangladesh**
-
----
 
 ## 🚀 Selected Work Areas
 
