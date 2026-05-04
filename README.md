@@ -1,48 +1,35 @@
-# Hi, I'm Dilip Goswami 👋
+# Hello everyone, I'm Dilip Goswami 👋
 
-### Computer Vision Engineer | 3D Vision | Medical Image Analysis | M.Sc., TU Berlin
+I’m a **Computer Vision Engineer** based in Berlin, Germany. I hold an M.Sc. in **Geodesy and Geoinformation Science** from **Technische Universität Berlin**, with a focus on **photogrammetric computer vision and image processing**.
 
-I am a **Computer Vision Engineer** based in Berlin, Germany, with an M.Sc. in **Geodesy and Geoinformation Science** from **Technische Universität Berlin**.
+My work brings together **3D computer vision, medical image analysis, geometric registration, and deep learning**. I have experience with vision-based workflows for **medical imaging, AR-guided surgery, visual anonymization, and spatial-data applications**.
 
-My work focuses on **3D computer vision, medical image analysis, geometric registration, visual understanding, and deep learning**. I have experience with computer-vision and machine-learning workflows for medical imaging, AR-guided surgery, visual anonymization, and spatial-data applications.
+I’m interested in building computer-vision systems that are **geometrically reliable, data-efficient, and useful in real-world environments**.
+
+---
+
+## 🧭 Professional Focus
+
+* 3D Computer Vision
+* Medical Image Analysis
+* Geometric Registration
+* Surface-Distance Evaluation and Precision Metrics
+* Visual Understanding
+* Monocular 3D Reconstruction
+* Segmentation and Detection
+* AR-Guided Surgical Navigation
+* Applied Deep Learning for Vision Systems
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Computer Vision
-
-* 3D Registration
-* Multi-view Geometry
-* Epipolar Geometry
-* Camera Calibration
-* SLAM
-* Segmentation
-* Detection
-* Monocular Depth Estimation
-
-### Deep Learning
-
-* PyTorch
-* ResNet
-* U-Net++
-* MA-Net
-* Vision Transformers
-* Focal Loss
-* Tversky Loss
-* Model EMA
-* Mixed Precision Training / AMP
-
-### Programming and Tools
-
-* Python
-* C++
-* MATLAB
-* OpenCV
-* Open3D
-* Albumentations
-* MeshLab
-* Git
+| Area                  | Skills                                                                                                                                                                                    |
+| :-------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Computer Vision**   | 3D Registration, Geometric Refinement, Surface-Distance Evaluation, Multi-view Geometry, Epipolar Geometry, Camera Calibration, SLAM, Segmentation, Detection, Monocular Depth Estimation |
+| **Deep Learning**     | PyTorch, ResNet, U-Net++, MA-Net, Vision Transformers, Focal Loss, Tversky Loss, Model EMA, Mixed Precision Training / AMP                                                                |
+| **Programming**       | Python, C++, MATLAB                                                                                                                                                                       |
+| **Tools & Libraries** | OpenCV, Open3D, Albumentations, MeshLab, Git                                                                                                                                              |
 
 ---
 
@@ -65,6 +52,7 @@ My work focuses on **3D computer vision, medical image analysis, geometric regis
 * Developed an automated framework for registering preoperative CT-based anatomy with intraoperative meshes in endonasal surgery.
 * Built deep-learning models for anatomical scene understanding under limited-data and class-imbalance conditions.
 * Designed a coarse-to-fine pipeline combining semantic initialization with rigid geometric refinement.
+* Worked on registration evaluation using surface-distance analysis and precision-oriented geometric metrics.
 * Improved model training using focal/Tversky losses, exponential moving average, and mixed-precision optimization.
 
 ### Computer Vision Intern
@@ -96,25 +84,33 @@ My work focuses on **3D computer vision, medical image analysis, geometric regis
 * **Master’s Thesis:** *Automatic Registration of Preoperative and Intraoperative Views for AR-Guided Endonasal Surgery*
 * **Academic Project:** Real-Time Hand Tracking and Monocular Depth Estimation Using a Smartphone Camera
 
+### B.Sc. Urban and Regional Planning
+
+**Khulna University of Engineering & Technology, Bangladesh**
+
+---
+
 ## 🚀 Selected Work Areas
 
-| Area                            | Focus                                                                            |
-| :------------------------------ | :------------------------------------------------------------------------------- |
-| **3D Registration**             | Registration of preoperative CT-based anatomy with intraoperative meshes         |
-| **Medical Image Understanding** | Anatomical scene understanding under limited-data and class-imbalance conditions |
-| **3D Facial Reconstruction**    | Personalized geometric modeling from mobile imagery                              |
-| **Visual Anonymization**        | CNN-based visual pipelines for automated anonymization                           |
-| **Real-Time Vision**            | Smartphone-based hand tracking and monocular depth estimation                    |
+| Area                            | Focus                                                                                                                                 |
+| :------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------ |
+| **3D Registration**             | Registration of preoperative CT-based anatomy with intraoperative meshes using semantic initialization and rigid geometric refinement |
+| **Registration Evaluation**     | Surface-distance analysis and precision-oriented validation of geometric alignment                                                    |
+| **Medical Image Understanding** | Anatomical scene understanding under limited-data and class-imbalance conditions                                                      |
+| **3D Facial Reconstruction**    | Personalized geometric modeling from mobile imagery                                                                                   |
+| **Visual Anonymization**        | CNN-based visual pipelines for automated anonymization                                                                                |
+| **Real-Time Vision**            | Smartphone-based hand tracking and monocular depth estimation                                                                         |
 
 ---
 
 ## 📂 Portfolio Focus
 
-My GitHub focuses on selected work and technical interests in:
+This GitHub profile reflects my technical interests and selected work in:
 
 * 3D computer vision
 * geometric registration
 * medical image analysis
+* registration evaluation
 * monocular reconstruction
 * segmentation and detection
 * visual anonymization
@@ -124,7 +120,7 @@ Some research and industry projects may be private due to confidentiality, medic
 
 ---
 
-## 📌 Roles I’m Interested In
+## 🎯 Target Roles
 
 I am interested in opportunities related to:
 
@@ -140,14 +136,14 @@ I am interested in opportunities related to:
 
 ## 🌍 Languages
 
-* Bengali — Native
-* English — C1
-* German — A2
+* **Bengali:** Native
+* **English:** C1
+* **German:** A2
 
 ---
 
-## 📫 Connect
+## 📫 Contact
 
-* LinkedIn: [linkedin.com/in/dilip-goswami-853018108](https://www.linkedin.com/in/dilip-goswami-853018108/)
-* ResearchGate: [researchgate.net/profile/Dilip-Goswami-2](https://www.researchgate.net/profile/Dilip-Goswami-2?ev=hdr_xprf)
-* Email: [gshubro@yahoo.com](mailto:gshubro@yahoo.com)
+* **LinkedIn:** [linkedin.com/in/dilip-goswami-853018108](https://www.linkedin.com/in/dilip-goswami-853018108/)
+* **ResearchGate:** [researchgate.net/profile/Dilip-Goswami-2](https://www.researchgate.net/profile/Dilip-Goswami-2?ev=hdr_xprf)
+* **Email:** [gshubro@yahoo.com](mailto:gshubro@yahoo.com)
