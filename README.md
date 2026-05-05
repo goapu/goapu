@@ -84,10 +84,6 @@ I’m interested in building computer-vision systems that are **geometrically re
 * **Master’s Thesis:** *Automatic Registration of Preoperative and Intraoperative Views for AR-Guided Endonasal Surgery*
 * **Academic Project:** Real-Time Hand Tracking and Monocular Depth Estimation Using a Smartphone Camera
 
-### B.Sc. Urban and Regional Planning
-
-**Khulna University of Engineering & Technology, Bangladesh**
-
 ---
 
 ## 🚀 Selected Work Areas
