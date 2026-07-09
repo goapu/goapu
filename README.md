@@ -1,10 +1,10 @@
 # Hello, I'm Dilip Goswami
 
-I am a **Computer Vision Engineer** based in Berlin, Germany, with an M.Sc. in **Geodesy and Geoinformation Science** from **Technische Universität Berlin**, focused on **photogrammetric computer vision, image processing, and 3D geometric analysis**.
+I am a **Computer Vision Engineer** based in Berlin, Germany, with an M.Sc. in **Geodesy and Geoinformation Science** from **Technische Universität Berlin**. My background focuses on **photogrammetric computer vision, image processing, 3D geometric analysis, and spatial data systems**.
 
-My work combines **3D computer vision, medical image analysis, geometric registration, and deep learning**, with experience in **AR-guided surgical navigation, endoscopic image understanding, 3D reconstruction, visual anonymization, and spatial-data applications**.
+My work combines **3D computer vision, medical image analysis, geometric registration, deep learning, and AR-guided navigation**. I have experience with **endoscopic image understanding, preoperative-to-intraoperative registration, 3D reconstruction, visual anonymization, and real-world spatial-data applications**.
 
-I am interested in building vision systems that are **geometrically reliable, data-efficient, interpretable, and useful in real-world environments**.
+I am especially interested in building vision systems that are **geometrically reliable, data-efficient, interpretable, and useful in real-world environments**.
 
 ---
 
@@ -17,17 +17,39 @@ I am interested in building vision systems that are **geometrically reliable, da
 * Semantic Segmentation and Classification
 * AR-Guided Surgical Navigation
 * Applied Deep Learning for Vision Systems
+* Mobile RGB-D and ARKit-Based 3D Capture
 
 ---
 
 ## 🛠️ Technical Skills
 
-| Area                           | Skills                                                                                                                                           |
-| :----------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Computer Vision & Geometry** | 3D Registration, ICP, RANSAC, Kabsch Alignment, Camera Calibration, Multi-view Geometry, Point Clouds, Mesh Processing, Surface-Distance Metrics |
-| **Deep Learning**              | PyTorch, ResNet, U-Net++, MA-Net, Vision Transformers, Transfer Learning, Fine-Tuning, Focal/Tversky Loss, EMA, Mixed Precision Training         |
-| **Medical Imaging & AR**       | Endoscopic Image Analysis, Anatomical Landmark Segmentation, Viewpoint Classification, Preoperative-to-Intraoperative Alignment                  |
-| **Programming & Tools**        | Python, C++, MATLAB, OpenCV, Open3D, Albumentations, MeshLab, COLMAP, Git, NumPy, Matplotlib, Supervisely                                        |
+| Area                           | Skills                                                                                                                                                |
+| :----------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Computer Vision & Geometry** | 3D Registration, ICP, RANSAC, Kabsch Alignment, Camera Calibration, Multi-view Geometry, Point Clouds, Mesh Processing, Surface-Distance Metrics      |
+| **Deep Learning**              | PyTorch, ResNet, U-Net++, MA-Net, Vision Transformers, Transfer Learning, Fine-Tuning, Focal Loss, Tversky Loss, EMA, Mixed Precision Training        |
+| **Medical Imaging & AR**       | Endoscopic Image Analysis, Anatomical Landmark Segmentation, Viewpoint Classification, Preoperative-to-Intraoperative Alignment, AR-Guided Navigation |
+| **3D Reconstruction**          | RGB-D Fusion, TSDF Fusion, ARKit Depth Capture, Open3D, Point-Cloud Processing, Mesh Reconstruction, Room and Object Scanning                         |
+| **Programming & Tools**        | Python, C++, MATLAB, SwiftUI, ARKit, OpenCV, Open3D, NumPy, Matplotlib, Albumentations, MeshLab, COLMAP, Git, Supervisely                             |
+
+---
+
+## 🚀 Featured Project
+
+### myHut — iPhone ARKit RGB-D Scanning and 3D Reconstruction
+
+**myHut** is an iPhone ARKit RGB-D scanning app with a Python/Open3D backend for **object reconstruction, room measurement, and full-room 3D scanning**.
+
+The system captures RGB images, depth maps, confidence maps, camera poses, intrinsics, timestamps, and metadata from an iPhone, then streams the data to a local backend for saving and reconstruction.
+
+**Core features:**
+
+* SwiftUI + ARKit iPhone capture app
+* RGB-D frame streaming over a local network
+* Object reconstruction mode
+* Room measurement mode
+* Full-room reconstruction mode
+* Python/Open3D backend with RGB-D fusion
+* Safe local configuration for private network setup
 
 ---
 
@@ -88,10 +110,17 @@ I am interested in building vision systems that are **geometrically reliable, da
 
 My master’s thesis integrated **deep learning-based scene understanding** with **3D geometric registration** for AR-guided endonasal surgery.
 
-* **Nasal-cavity viewpoint classification:** 91.8% accuracy, 92.7% macro F1-score, 91.8% weighted F1-score
-* **Dense registration evaluation:** 19,157 evaluated surface vertices
-* **Registration accuracy:** 0.96 mm median error, 1.21 mm mean error, 1.56 mm RMSE, 3.16 mm P95
-* **Threshold success:** 80.8% within 2 mm, 94.1% within 3 mm, 99.7% within 5 mm
+| Task                                  | Result                                                              |
+| :------------------------------------ | :------------------------------------------------------------------ |
+| Nasal-cavity viewpoint classification | **91.8% accuracy**                                                  |
+| Macro F1-score                        | **92.7%**                                                           |
+| Weighted F1-score                     | **91.8%**                                                           |
+| Dense registration evaluation         | **19,157 surface vertices**                                         |
+| Median registration error             | **0.96 mm**                                                         |
+| Mean registration error               | **1.21 mm**                                                         |
+| RMSE                                  | **1.56 mm**                                                         |
+| P95 surface error                     | **3.16 mm**                                                         |
+| Threshold success                     | **80.8% within 2 mm**, **94.1% within 3 mm**, **99.7% within 5 mm** |
 
 ---
 
@@ -103,6 +132,7 @@ My master’s thesis integrated **deep learning-based scene understanding** with
 * Medical Image Analysis Engineer
 * 3D Vision / Reconstruction Engineer
 * AR/VR Perception Engineer
+* Spatial AI Engineer
 
 ---
 
@@ -119,3 +149,7 @@ My master’s thesis integrated **deep learning-based scene understanding** with
 * **LinkedIn:** [linkedin.com/in/dilip-goswami-853018108](https://www.linkedin.com/in/dilip-goswami-853018108/)
 * **ResearchGate:** [researchgate.net/profile/Dilip-Goswami-2](https://www.researchgate.net/profile/Dilip-Goswami-2?ev=hdr_xprf)
 * **Email:** [gshubro@yahoo.com](mailto:gshubro@yahoo.com)
+
+---
+
+> Building geometrically grounded computer vision systems for real-world medical, spatial, and AR applications.
