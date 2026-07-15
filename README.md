@@ -1,87 +1,105 @@
-# Hello, I'm Dilip Goswami 👋
+# Hi, I'm Dilip Goswami 👋
 
-I’m a **Computer Vision Engineer** in Berlin working across **3D vision, medical imaging, RGB-D sensing, geometric registration, and applied deep learning**.
+**Computer Vision Engineer based in Berlin, Germany**
 
-My interests sit at the intersection of research and engineering: turning camera, depth, and spatial data into practical systems for reconstruction, navigation, measurement, and visual understanding.
+I build geometrically grounded computer vision systems for **3D reconstruction,
+medical imaging, RGB-D sensor fusion and AR-assisted navigation**.
 
----
+My work spans the complete perception pipeline—from data capture and model
+development to geometric evaluation, backend APIs and deployment.
 
-## 🔭 What I’m Working On
+## Current work
 
-- Monocular 3D facial reconstruction from mobile imagery
-- Medical image understanding and anatomical landmark analysis
-- RGB-D reconstruction using ARKit and Open3D
-- Robust 3D registration and geometric evaluation
-- Reproducible computer vision pipelines and lightweight deployment
+- Developing monocular 3D facial reconstruction and privacy-preserving
+  visual-learning systems
+- Building an iPhone ARKit RGB-D scanning platform with a Python/Open3D backend
+- Exploring robust registration, reconstruction and spatial evaluation methods
 
----
+## Selected engineering results
 
-## 🚀 Featured Work
+- **1.205 mm mean surface error** in preoperative-to-intraoperative
+  anatomical registration
+- **94.1% of evaluated points within 3 mm**
+- **91.8% accuracy** and **92.7% macro F1** for anatomical viewpoint
+  classification
+- Registration evaluation performed across **19,150+ surface samples**
 
-### myHut — Mobile RGB-D Capture and Reconstruction
+## Featured projects
 
-An iPhone-based scanning system that combines **SwiftUI, ARKit, depth sensing, camera poses, and a Python/Open3D backend**.
+### [myHut](REPOSITORY_URL)
+**iPhone ARKit RGB-D capture and 3D reconstruction**
 
-It supports object scanning, room measurement, reconstruction, quality diagnostics, and quantitative evaluation.
+An end-to-end spatial capture system combining a SwiftUI/ARKit application
+with a Python and Open3D reconstruction backend.
 
-### 3D Mesh Registration Pipeline
+`Swift` `ARKit` `SwiftUI` `Python` `Open3D` `FastAPI` `RGB-D` `TSDF`
 
-A geometry-focused pipeline for aligning preoperative and intraoperative anatomical surfaces using landmark initialization, rigid transformation estimation, RANSAC-based refinement, and surface-distance analysis.
+Key capabilities:
 
-### Temporal Endoscopic Frame Extraction
-
-A resumable multiprocessing pipeline for creating structured datasets from temporally annotated surgical videos, including metadata, audit logs, normalization, and quality filtering.
-
----
-
-## 🧪 Current and Recent Work
-
-- **Computer Vision Research Engineer — Spiral Physical Therapy**  
-  Working on mobile 3D facial reconstruction, personalized geometry, video analysis, and privacy-aware visual learning.
-
-- **Research Trainee — Institut Pascal, EnCoV**  
-  Developed learning-based and geometric methods for AR-guided endonasal surgery, including anatomical viewpoint understanding and 3D registration.
-
-- **Computer Vision Intern — SurgAR**  
-  Supported medical video annotation and validation for segmentation and AR-assisted surgical visualization.
-
-- **Earlier Experience**  
-  Student mentoring, computer vision work at Eagle Eye Technologies, and previous roles spanning GIS, research, databases, and structural engineering.
+- synchronized RGB, depth, confidence, intrinsics and camera-pose capture;
+- object and room scanning workflows;
+- TSDF-based volumetric reconstruction;
+- keyframe selection and scan-quality diagnostics;
+- confidence-aware room measurements;
+- Chamfer-distance and F-score evaluation;
+- API-based processing and artifact generation.
 
 ---
 
-## 🛠️ Toolbox
+### [Medical 3D Registration](REPOSITORY_URL)
+**Registration for AR-guided endonasal surgery**
 
-**Languages:** Python, C++, Swift, MATLAB, SQL  
-**Vision & ML:** PyTorch, OpenCV, Open3D, CNNs, Vision Transformers, segmentation, classification, object detection  
-**3D & Geometry:** RGB-D fusion, TSDF, ICP, RANSAC, Kabsch alignment, camera calibration, point clouds, meshes  
-**Mobile & AR:** ARKit, SwiftUI, depth maps, confidence maps, camera intrinsics, device poses  
-**Engineering:** FastAPI, Docker, GitHub Actions, TensorRT, REST APIs, CI/CD
+A coarse-to-fine pipeline for aligning preoperative anatomical models with
+intraoperative 3D observations.
 
----
+`Python` `Open3D` `PyTorch` `Kabsch` `RANSAC` `ICP`
 
-## 🎓 Background
+Includes:
 
-I completed an **M.Sc. in Geodesy and Geoinformation Science** at **Technische Universität Berlin**, specializing in photogrammetric computer vision and remote sensing.
+- semantic initialization;
+- scale normalization and landmark alignment;
+- robust spatial refinement;
+- point-to-surface error analysis;
+- convergence reporting, CDF plots and mesh error maps.
 
-My master’s thesis focused on automatic registration of preoperative and intraoperative views for AR-guided endonasal surgery.
-
----
-
-## 🌍 Languages
-
-Bengali — Native  
-English — C2  
-German — A2, actively improving
+**Evaluation:** 1.205 mm mean error, 1.557 mm RMSE and 94.1% of samples
+within 3 mm.
 
 ---
 
-## 📫 Connect
+### [Endoscopic Dataset Pipeline](REPOSITORY_URL)
+**Reproducible frame extraction for annotated surgical videos**
 
-- [LinkedIn](https://www.linkedin.com/in/dilip-goswami-853018108/)
-- [ResearchGate](https://www.researchgate.net/profile/Dilip-Goswami-2?ev=hdr_xprf)
-- [Email](mailto:gshubro@yahoo.com)
+A resumable multiprocessing pipeline for converting temporal annotations and
+endoscopic videos into structured machine-learning datasets.
 
----
+`Python` `OpenCV` `Multiprocessing` `Data Validation`
 
-> Building practical computer vision systems grounded in geometry, data, and real-world use.
+Features sequential decoding, annotation normalization, quality filtering,
+metadata generation, audit manifests and recovery from interrupted runs.
+
+## Technical focus
+
+**Vision and geometry:** 3D registration, RGB-D fusion, TSDF reconstruction,
+camera calibration, point clouds, mesh processing and surface-distance metrics
+
+**Machine learning:** PyTorch, semantic segmentation, image classification,
+transfer learning, vision transformers and limited-data training
+
+**Engineering:** Python, C++, Swift, FastAPI, Docker, CI/CD, GitHub Actions
+and reproducible evaluation pipelines
+
+## Background
+
+I hold an M.Sc. in Geodesy and Geoinformation Science from Technische
+Universität Berlin, specializing in photogrammetric computer vision,
+remote sensing and multi-sensor navigation.
+
+My master's research at Institut Pascal focused on automatic registration of
+preoperative and intraoperative views for AR-guided endonasal surgery.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/dilip-goswami-853018108/) ·
+[ResearchGate](https://www.researchgate.net/profile/Dilip-Goswami-2) ·
+[Email](mailto:gshubro@yahoo.com)
