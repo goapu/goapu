@@ -16,7 +16,7 @@
 
 I am a **Computer Vision Engineer** focused on **3D perception, geometric computer vision, sensor fusion, deep learning, and spatial computing**.
 
-I build end-to-end vision systems covering multimodal data acquisition, dataset engineering, model development, geometric reconstruction, quantitative evaluation, backend integration, and deployment-oriented workflows.
+I build end-to-end computer vision systems covering multimodal data acquisition, dataset engineering, model development, geometric reconstruction, quantitative evaluation, backend integration, and deployment-oriented workflows.
 
 ---
 
@@ -54,7 +54,8 @@ I build end-to-end vision systems covering multimodal data acquisition, dataset 
 
 * Image classification and semantic segmentation
 * Object detection
-* CNNs and vision transformers
+* Convolutional neural networks
+* Vision transformers
 * Transfer learning and limited-data training
 * Anatomical viewpoint classification
 * Synthetic medical-image generation
@@ -69,23 +70,24 @@ I build end-to-end vision systems covering multimodal data acquisition, dataset 
 * Anatomical landmark detection
 * Medical-image segmentation
 * Temporally annotated video processing
-* Medical AI dataset generation
+* Reproducible medical-AI dataset generation
 * Privacy-preserving visual learning
 
 ### Spatial Computing & Sensor Fusion
 
 * ARKit-based RGB-D acquisition
 * Synchronized RGB, depth, confidence, intrinsics, and camera-pose capture
-* Object and room reconstruction
+* Object and indoor-scene reconstruction
 * Confidence-aware sensor processing
 * Keyframe selection
 * Scan-quality diagnostics
 * Spatial measurement
 * Multi-sensor navigation
+* Mobile computer vision workflows
 
 ### Software & Research Engineering
 
-* Python-based computer-vision systems
+* Python-based computer vision systems
 * FastAPI backend development
 * Multiprocessing and resumable data pipelines
 * Docker-based development and deployment
@@ -99,12 +101,10 @@ I build end-to-end vision systems covering multimodal data acquisition, dataset 
 
 ## 📐 Selected Technical Results
 
-* **1.205 mm mean surface error** in preoperative-to-intraoperative anatomical registration
-* **1.557 mm RMSE**
+* **1.205 mm mean surface error** and **1.557 mm RMSE** for preoperative-to-intraoperative anatomical registration
 * **94.1% of evaluated surface samples within 3 mm**
-* **91.8% anatomical viewpoint classification accuracy**
-* **92.7% macro F1 score**
-* Registration evaluation across more than **19,150 surface samples**
+* Registration evaluated across more than **19,150 surface samples**
+* **91.8% accuracy** and **92.7% macro F1 score** for anatomical viewpoint classification on held-out data
 
 ---
 
@@ -116,44 +116,60 @@ I build systems that are:
 * **Quantitatively evaluated** — performance is measured using reproducible geometric and machine-learning metrics.
 * **Robust to real-world data** — pipelines account for noise, partial observations, missing data, confidence values, and interrupted processing.
 * **Modular and maintainable** — research components are organized as reusable modules, services, and automated workflows.
-* **Deployment-oriented** — models and geometric pipelines are designed for practical integration and execution.
+* **Deployment-oriented** — models and geometric pipelines are designed for practical integration, optimization, and execution.
 * **Reproducible** — experiments include validated inputs, structured metadata, diagnostic outputs, and auditable results.
 
 ---
 
 ## 🔬 Background
 
-I hold an **M.Sc. in Geodesy and Geoinformation Science** from **Technische Universität Berlin**, specializing in **Photogrammetric Computer Vision and Remote Sensing**.
+I hold an **M.Sc. in Geodesy and Geoinformation Science** from **Technische Universität Berlin**, with a specialization in **Photogrammetric Computer Vision and Remote Sensing**.
 
-My research at **Institut Pascal** focused on automatic registration of preoperative anatomical models with intraoperative 3D observations for **AR-guided endonasal surgery**.
+My research at **Institut Pascal** focused on the automatic registration of preoperative anatomical models with intraoperative 3D observations for **AR-guided endonasal surgery**.
 
 My broader academic background includes multi-sensor navigation, space geodesy, geoinformation technology, engineering surveying, and adjustment theory.
 
 ---
 
-## 🧭 Current Technical Interests
+## 🧭 Technical Interests
 
-* Robust 3D registration under partial overlap
+* Robust 3D registration under partial overlap and noisy observations
 * Monocular and RGB-D reconstruction
 * Neural and geometric 3D representations
 * Confidence-aware sensor fusion
-* Medical image analysis
-* AR-assisted navigation
+* Medical image analysis and surgical navigation
 * Privacy-preserving computer vision
 * Mobile spatial-computing systems
-* Deployment of research-grade vision pipelines
+* Reliable deployment of research-grade computer vision pipelines
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=goapu&show_icons=true&theme=vision-friendly-dark&hide_border=true" height="165" alt="Dilip Goswami's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goapu&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8" height="165" alt="Most-used programming languages" />
+  <a href="https://github.com/goapu">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=goapu&show_icons=true&theme=vision-friendly-dark&hide_border=true"
+      height="165"
+      alt="Dilip Goswami's public GitHub statistics"
+    />
+  </a>
+  <a href="https://github.com/goapu?tab=repositories">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=goapu&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8"
+      height="165"
+      alt="Languages by code volume across Dilip Goswami's public repositories"
+    />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=goapu&theme=vision-friendly-dark&hide_border=true" alt="GitHub contribution streak" />
+  <a href="https://github.com/goapu">
+    <img
+      src="https://streak-stats.demolab.com/?user=goapu&theme=vision-friendly-dark&hide_border=true"
+      alt="Dilip Goswami's GitHub contribution streak"
+    />
+  </a>
 </div>
