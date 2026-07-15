@@ -64,41 +64,35 @@ The system combines a **SwiftUI + ARKit iOS app** with an `ark_fusion` backend. 
 
 ## 🧪 Experience
 
-### Freelance Computer Vision Consultant
+### Computer Vision Research Engineer (Freelance)
 
-**Spiral Physical Therapy Inc., USA — Remote**
+**Spiral Physical Therapy Inc., USA — Remote**  
 *September 2025 – Present*
 
-* Developing monocular 3D facial reconstruction and personalized geometric modeling methods from mobile imagery.
-* Building learning-based workflows for facial shape estimation, video-based analysis, and privacy-preserving visual learning.
-* Exploring data-efficient and privacy-aware approaches for real-world mobile vision systems.
+* Designed the project architecture and technical workflow for monocular 3D facial reconstruction and personalized geometric modelling from mobile imagery.
+* Developing learning-based pipelines for facial shape estimation, video analysis, and privacy-preserving visual learning.
 
-### Research Trainee / Erasmus+ Scholar
+### Research Trainee (Erasmus+ Scholar)
 
-**Institut Pascal, EnCoV – Axe TGI, Clermont-Ferrand, France**
+**Institut Pascal (EnCoV), Clermont-Ferrand, France**  
 *January 2025 – June 2025*
 
 * Developed a coarse-to-fine 3D registration framework for AR-guided endonasal surgery using semantic initialization and spatial refinement.
 * Built synthetic medical image generation and segmentation workflows for limited-data anatomical landmark detection.
-* Designed a registration pipeline combining semantic cues, landmark-based alignment, rigid transformation estimation, and geometric refinement.
-* Designed evaluation pipelines across **19,150+ surface samples**, achieving **1.205 mm mean surface error** and **1.557 mm RMSE**.
-* Achieved **91.8% overall accuracy** and **92.7% macro F1-score** on held-out anatomical viewpoint classification.
+* Designed reproducible evaluation pipelines across more than **19,150 samples**, achieving a **1.205 mm mean surface error** and **1.557 mm RMSE**.
+* Developed and evaluated a learning-based anatomical viewpoint classifier, achieving **91.8% accuracy** and a **92.7% macro F1-score** on held-out data.
 
 ### Computer Vision Intern
 
-**SurgAR, Clermont-Ferrand, France**
+**SurgAR, Clermont-Ferrand, France**  
 *November 2024 – December 2024*
 
 * Annotated, validated, and quality-checked medical video data for segmentation and AR-based hepatectomy visualization workflows.
-* Supported AR-based visualization workflows for image-guided surgical applications.
 
-### Working Student — Computer Vision
+### Other Experience
 
-**Eagle Eye Technologies GmbH, Berlin, Germany**
-*August 2020 – October 2020*
-
-* Implemented a CNN-based visual anonymization workflow for automatic fading of human faces and vehicle registration plates.
-* Prepared training data through preprocessing, augmentation, and quality-control workflows.
+* **Student Mentor & Working Student** | TU Berlin & Eagle Eye Technologies, Berlin *(2020 – 2024)*
+* **Database, Research, GIS, & Structural Engineering Roles** | Dhaka, Bangladesh *(June 2015 – September 2019)*
 
 ---
 
