@@ -16,7 +16,7 @@
 
 I am a **Computer Vision Engineer** focused on **3D perception, geometric computer vision, sensor fusion, deep learning, and spatial computing**.
 
-I build end-to-end computer vision systems covering multimodal data acquisition, dataset engineering, model development, geometric reconstruction, quantitative evaluation, backend integration, and deployment-oriented workflows.
+I build end-to-end vision systems, from multimodal data acquisition and model development to geometric reconstruction, evaluation, backend integration, and deployment.
 
 ---
 
@@ -37,74 +37,50 @@ I build end-to-end computer vision systems covering multimodal data acquisition,
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
 
-### 3D Perception & Geometric Computer Vision
+### 3D Vision & Geometry
 
-* RGB-D sensor fusion and TSDF reconstruction
 * Point-cloud and mesh processing
+* RGB-D fusion and TSDF reconstruction
 * Rigid and similarity registration
-* Landmark-based alignment and scale normalization
 * Kabsch alignment, RANSAC, and ICP
-* Coarse-to-fine geometric registration
 * Camera calibration and coordinate transformations
-* Multi-view geometry and structure from motion
-* Monocular 3D reconstruction
+* Multi-view and monocular 3D reconstruction
 * Surface-distance and spatial-accuracy evaluation
 
-### Deep Learning & Visual Perception
+### Deep Learning & Medical Vision
 
-* Image classification and semantic segmentation
-* Object detection
-* Convolutional neural networks
-* Vision transformers
-* Transfer learning and limited-data training
-* Anatomical viewpoint classification
-* Synthetic medical-image generation
-* Landmark detection
-* Model evaluation and experimental comparison
-
-### Medical Computer Vision
-
-* Preoperative-to-intraoperative anatomical registration
-* AR-guided surgical navigation
+* Image classification, object detection, and semantic segmentation
+* CNNs, vision transformers, and transfer learning
+* Anatomical registration and landmark detection
 * Endoscopic image and video processing
-* Anatomical landmark detection
-* Medical-image segmentation
-* Temporally annotated video processing
-* Reproducible medical-AI dataset generation
-* Privacy-preserving visual learning
+* Limited-data and privacy-preserving visual learning
+* Reproducible model evaluation
 
 ### Spatial Computing & Sensor Fusion
 
 * ARKit-based RGB-D acquisition
-* Synchronized RGB, depth, confidence, intrinsics, and camera-pose capture
+* RGB, depth, confidence, intrinsics, and pose processing
 * Object and indoor-scene reconstruction
-* Confidence-aware sensor processing
-* Keyframe selection
-* Scan-quality diagnostics
-* Spatial measurement
-* Multi-sensor navigation
-* Mobile computer vision workflows
+* Confidence-aware measurements and scan diagnostics
+* Multi-sensor and mobile vision workflows
 
-### Software & Research Engineering
+### Software Engineering
 
-* Python-based computer vision systems
 * FastAPI backend development
-* Multiprocessing and resumable data pipelines
-* Docker-based development and deployment
-* CI/CD with GitHub Actions
-* Model optimization with TensorRT
-* Metadata and audit-manifest generation
-* Input validation and quality-control workflows
-* Reproducible evaluation and technical reporting
+* Multiprocessing and resumable pipelines
+* Docker, CI/CD, and GitHub Actions
+* TensorRT model optimization
+* Input validation, metadata, and audit manifests
+* Reproducible evaluation workflows
 
 ---
 
 ## 📐 Selected Technical Results
 
-* **1.205 mm mean surface error** and **1.557 mm RMSE** for preoperative-to-intraoperative anatomical registration
+* **1.205 mm mean surface error** and **1.557 mm RMSE** for anatomical registration
 * **94.1% of evaluated surface samples within 3 mm**
 * Registration evaluated across more than **19,150 surface samples**
-* **91.8% accuracy** and **92.7% macro F1 score** for anatomical viewpoint classification on held-out data
+* **91.8% accuracy** and **92.7% macro F1 score** for anatomical viewpoint classification
 
 ---
 
@@ -112,35 +88,32 @@ I build end-to-end computer vision systems covering multimodal data acquisition,
 
 I build systems that are:
 
-* **Geometrically rigorous** — coordinate systems, transformations, assumptions, and error metrics are explicitly defined.
-* **Quantitatively evaluated** — performance is measured using reproducible geometric and machine-learning metrics.
-* **Robust to real-world data** — pipelines account for noise, partial observations, missing data, confidence values, and interrupted processing.
-* **Modular and maintainable** — research components are organized as reusable modules, services, and automated workflows.
-* **Deployment-oriented** — models and geometric pipelines are designed for practical integration, optimization, and execution.
-* **Reproducible** — experiments include validated inputs, structured metadata, diagnostic outputs, and auditable results.
+* **Geometrically rigorous**
+* **Quantitatively evaluated**
+* **Robust to real-world data**
+* **Modular and maintainable**
+* **Deployment-oriented**
+* **Reproducible**
 
 ---
 
 ## 🔬 Background
 
-I hold an **M.Sc. in Geodesy and Geoinformation Science** from **Technische Universität Berlin**, with a specialization in **Photogrammetric Computer Vision and Remote Sensing**.
+I hold an **M.Sc. in Geodesy and Geoinformation Science** from **Technische Universität Berlin**, specializing in **Photogrammetric Computer Vision and Remote Sensing**.
 
-My research at **Institut Pascal** focused on the automatic registration of preoperative anatomical models with intraoperative 3D observations for **AR-guided endonasal surgery**.
-
-My broader academic background includes multi-sensor navigation, space geodesy, geoinformation technology, engineering surveying, and adjustment theory.
+My research at **Institut Pascal** focused on registering preoperative anatomical models with intraoperative 3D observations for **AR-guided endonasal surgery**.
 
 ---
 
 ## 🧭 Technical Interests
 
-* Robust 3D registration under partial overlap and noisy observations
+* Robust 3D registration
 * Monocular and RGB-D reconstruction
 * Neural and geometric 3D representations
 * Confidence-aware sensor fusion
-* Medical image analysis and surgical navigation
+* Medical image analysis
 * Privacy-preserving computer vision
-* Mobile spatial-computing systems
-* Reliable deployment of research-grade computer vision pipelines
+* Mobile spatial computing
 
 ---
 
