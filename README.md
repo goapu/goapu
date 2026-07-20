@@ -24,18 +24,18 @@ I build end-to-end vision systems, from multimodal data acquisition and model de
 
 ### Languages, Libraries & Frameworks
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=c%2B%2B\&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square\&logo=swift\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-EF6C00?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Open3D](https://img.shields.io/badge/Open3D-3D8FC6?style=flat-square)
-![ARKit](https://img.shields.io/badge/ARKit-000000?style=flat-square\&logo=apple\&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square\&logo=swift\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
+![ARKit](https://img.shields.io/badge/ARKit-000000?style=flat-square&logo=apple&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ### 3D Vision & Geometry
 
@@ -122,16 +122,16 @@ My research at **Institut Pascal** focused on registering preoperative anatomica
 <div align="center">
   <a href="https://github.com/goapu">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=goapu&show_icons=true&theme=vision-friendly-dark&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api?username=goapu&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true"
       height="165"
-      alt="Dilip Goswami's public GitHub statistics"
+      alt="Dilip Goswami's public and private GitHub statistics"
     />
   </a>
   <a href="https://github.com/goapu?tab=repositories">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=goapu&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8"
       height="165"
-      alt="Languages by code volume across Dilip Goswami's public repositories"
+      alt="Languages by code volume across Dilip Goswami's repositories"
     />
   </a>
 </div>
