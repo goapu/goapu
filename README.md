@@ -58,9 +58,9 @@
 <div align="center">
   <a href="https://github.com/goapu">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=goapu&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true"
+      src="https://github-readme-stats.vercel.app/api?username=goapu&show_icons=true&theme=vision-friendly-dark&hide_border=true"
       height="165"
-      alt="Dilip Goswami's public and private GitHub statistics"
+      alt="Dilip Goswami's GitHub statistics"
     />
   </a>
   <a href="https://github.com/goapu?tab=repositories">
