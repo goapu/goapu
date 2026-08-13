@@ -55,8 +55,6 @@
 
 ## 📊 GitHub Statistics
 
-> *Note: Due to the proprietary nature of enterprise and medical computer vision, a significant portion of my engineering contributions are in **private repositories**. The statistics below reflect both public and private activity.*
-
 <div align="center">
   <a href="https://github.com/goapu">
     <img
