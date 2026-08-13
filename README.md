@@ -119,12 +119,14 @@ My research at **Institut Pascal** focused on registering preoperative anatomica
 
 ## 📊 GitHub Statistics
 
+> **Note:** Due to the proprietary nature of enterprise computer vision and medical data, a significant portion of my engineering contributions are housed in **private repositories**. The statistics below reflect both my public projects and private repository activity.
+
 <div align="center">
   <a href="https://github.com/goapu">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=goapu&show_icons=true&theme=vision-friendly-dark&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api?username=goapu&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true"
       height="165"
-      alt="Dilip Goswami's public GitHub statistics"
+      alt="Dilip Goswami's public and private GitHub statistics"
     />
   </a>
   <a href="https://github.com/goapu?tab=repositories">
