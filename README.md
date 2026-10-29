@@ -14,9 +14,30 @@
 
 <br>
 
-**Computer Vision Engineer** specializing in **3D perception, geometric computer vision, sensor fusion, and spatial computing.** I build robust, end-to-end vision systems from multimodal data acquisition to geometric reconstruction and deployment.
+**Computer Vision Engineer** working on **3D reconstruction, registration, multi-view geometry, and RGB-D sensor fusion**, from calibrated capture to evaluated 3D geometry.
+
+📍 Berlin · M.Sc. Geodesy and Geoinformation Science, TU Berlin (Photogrammetric Computer Vision)
+
+🚀 Currently building **JustScan**, a sensor-fusion app that measures objects and produces 3D-printable reconstructions.
 
 ---
+
+## 💼 Experience
+
+- **CV Research Engineer (freelance)**, Spiral Physical Therapy Inc. · 2025–2026 · monocular 3D face reconstruction and an ARKit TrueDepth capture app
+- **Research Trainee (Erasmus+)**, Institut Pascal · 2025 · preop-to-intraop registration for AR-guided endonasal surgery (M.Sc. thesis)
+- **CV Intern**, SurgAR · 2024 · surgical video data for segmentation and AR
+
+## 🧩 Featured Projects
+
+| Project | Description |
+|---|---|
+| [myHut](https://github.com/goapu/myHut) | iPhone LiDAR capture and Open3D TSDF reconstruction |
+| [mocap-studio-web](https://github.com/goapu/mocap-studio-web) | Metric 3D human pose from 2–6 calibrated cameras; 12.7 px median reprojection error |
+| [3D Mesh Registration](https://github.com/goapu/3D-Mesh-Registration-and-Evaluation-Pipeline) | Kabsch → RANSAC → ICP surface registration; 1.205 mm mean error |
+| [VectorMapFormer](https://github.com/goapu/vector-map-former) | Coordinate-native Transformers for building generalization |
+| [Nose Landmarks](https://github.com/goapu/anatomical-nose-landmarks-extractor) | Nasal ROI and landmark extraction from 3D head scans |
+| InvisibleEye *(private)* | 3D ear landmark ensemble, Huawei Munich Tech Arena 2026; 1.03 mm mean error |
 
 ## 🛠 Tech Stack
 
@@ -26,35 +47,12 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Open3D](https://img.shields.io/badge/Open3D-3D8FC6?style=flat-square)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![ARKit](https://img.shields.io/badge/ARKit-000000?style=flat-square&logo=apple&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### Core Competencies
-
-- **3D Vision & Geometry:** Point-cloud/mesh processing, RGB-D fusion, TSDF reconstruction, rigid/similarity registration (ICP, Kabsch, RANSAC), camera calibration.
-- **Deep Learning & Medical Vision:** CNNs, Vision Transformers, object detection, semantic segmentation, anatomical landmark detection.
-- **Spatial Computing:** ARKit-based RGB-D acquisition, multi-sensor fusion, object and indoor-scene reconstruction.
-- **Software Engineering:** FastAPI backends, TensorRT optimization, reproducible CI/CD pipelines via GitHub Actions & Docker.
-
 ---
-
-## 📈 Key Results & Impact
-
-- Achieved **1.205 mm mean surface error** and **1.557 mm RMSE** for anatomical registration.
-- Validated registration robustness across **19,150+ surface samples** (with **94.1%** falling within 3 mm).
-- Developed anatomical viewpoint classification models reaching **91.8% accuracy** and **92.7% macro F1 score**.
-
----
-
-## 🔬 Background
-
-- **M.Sc. Geodesy and Geoinformation Science** | *Technische Universität Berlin* (Specialization: Photogrammetric Computer Vision)
-- **Research Focus:** Registered preoperative anatomical models with intraoperative 3D observations for AR-guided endonasal surgery at *Institut Pascal*.
-
----
-
-## 📊 GitHub Statistics
 
 <p align="center">
   <a href="https://github.com/goapu">
