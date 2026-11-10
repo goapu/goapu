@@ -32,13 +32,11 @@
 
 | Project | Description |
 |---|---|
-| [myHut](https://github.com/goapu/myHut) | iPhone LiDAR capture and Open3D TSDF reconstruction |
 | [mocap-studio-web](https://github.com/goapu/mocap-studio-web) | Metric 3D human pose from 2–6 calibrated cameras; 12.7 px median reprojection error on the 4-camera demo |
 | [Background Replacement SDK](https://github.com/goapu/background-replacement-sdk) | C++17 SDK for person-mask refinement and background transitions, with a versioned C API and optional TensorFlow Lite backend |
 | [3D Mesh Registration](https://github.com/goapu/3D-Mesh-Registration-and-Evaluation-Pipeline) | Kabsch → RANSAC → ICP surface registration; 1.205 mm mean vertex-to-surface distance in the example evaluation |
 | [VectorMapFormer](https://github.com/goapu/vector-map-former) | Coordinate-native Transformers for building generalization |
 | [Nose Landmarks](https://github.com/goapu/anatomical-nose-landmarks-extractor) | Nasal ROI and landmark extraction from 3D head scans |
-| InvisibleEye *(private)* | 3D ear landmark ensemble, Huawei Munich Tech Arena 2026; 1.03 mm mean error |
 
 ## 🛠 Tech Stack
 
@@ -56,21 +54,9 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/goapu">
-    <img
-      align="center"
-      src="https://github-stats-extended.vercel.app/api?username=goapu&amp;show_icons=true&amp;theme=vision-friendly-dark&amp;hide_border=true"
-      height="170"
-      alt="Dilip Goswami's GitHub statistics"
-    />
-  </a>
-  <a href="https://github.com/goapu?tab=repositories">
-    <img
-      align="center"
-      src="https://github-stats-extended.vercel.app/api/top-langs?username=goapu&amp;layout=compact&amp;langs_count=8&amp;card_width=320&amp;theme=vision-friendly-dark&amp;hide_border=true"
-      height="170"
-      alt="Languages by code volume across repositories"
-    />
-  </a>
-</p>
+<a href="https://github.com/goapu?tab=repositories">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=goapu&amp;layout=compact&amp;langs_count=3&amp;hide=typescript,javascript,html,css,c,shell,cmake&amp;card_width=320&amp;theme=vision-friendly-dark&amp;hide_border=true"
+    alt="Python, C++, and Swift usage"
+  />
+</a>
