@@ -14,7 +14,7 @@
 
 <br>
 
-**Computer Vision Engineer** working on **3D reconstruction, registration, multi-view geometry, and RGB-D sensor fusion**, from calibrated capture to evaluated 3D geometry.
+**Computer Vision Engineer** working on **3D reconstruction, registration, multi-view geometry, and RGB-D sensor fusion**. I build vision pipelines in **Python**, native vision components in **C++17**, and ARKit capture apps in **Swift**.
 
 📍 Berlin · M.Sc. Geodesy and Geoinformation Science, TU Berlin (Photogrammetric Computer Vision)
 
@@ -28,22 +28,31 @@
 - **Research Trainee (Erasmus+)**, Institut Pascal · 2025 · preop-to-intraop registration for AR-guided endonasal surgery (M.Sc. thesis)
 - **CV Intern**, SurgAR · 2024 · surgical video data for segmentation and AR
 
+## ⚙️ C++ Engineering
+
+**[Background Replacement SDK](https://github.com/goapu/background-replacement-sdk)** — a **C++17 development SDK** for camera background replacement and configurable portal transitions.
+
+- **Vision algorithms:** [Mask refinement](https://github.com/goapu/background-replacement-sdk/blob/main/src/mask_refiner.cpp) with morphological closing, camera-guided bilateral filtering, and temporal smoothing; optional TensorFlow Lite segmentation.
+- **Native API and runtime:** A [versioned C API](https://github.com/goapu/background-replacement-sdk/blob/main/include/magic_portal/magic_portal.h), [worker-thread scheduling](https://github.com/goapu/background-replacement-sdk/blob/main/src/portal_runner.cpp), session-aware resets, and stale-mask fallback.
+- **Build and validation:** [CMake packaging](https://github.com/goapu/background-replacement-sdk/blob/main/CMakeLists.txt), static/shared builds, regression tests, and [CI configurations](https://github.com/goapu/background-replacement-sdk/blob/main/.github/workflows/ci.yml) for sanitizers, Linux/macOS builds, and Android ARM64 cross-compilation.
+
 ## 🧩 Featured Projects
 
 | Project | Description |
 |---|---|
 | [myHut](https://github.com/goapu/myHut) | iPhone LiDAR capture and Open3D TSDF reconstruction |
-| [mocap-studio-web](https://github.com/goapu/mocap-studio-web) | Metric 3D human pose from 2–6 calibrated cameras; 12.7 px median reprojection error |
-| [3D Mesh Registration](https://github.com/goapu/3D-Mesh-Registration-and-Evaluation-Pipeline) | Kabsch → RANSAC → ICP surface registration; 1.205 mm mean error |
+| [mocap-studio-web](https://github.com/goapu/mocap-studio-web) | Metric 3D human pose from 2–6 calibrated cameras; 12.7 px median reprojection error on the 4-camera demo |
+| [3D Mesh Registration](https://github.com/goapu/3D-Mesh-Registration-and-Evaluation-Pipeline) | Kabsch → RANSAC → ICP surface registration; 1.205 mm mean vertex-to-surface distance in the example evaluation |
 | [VectorMapFormer](https://github.com/goapu/vector-map-former) | Coordinate-native Transformers for building generalization |
 | [Nose Landmarks](https://github.com/goapu/anatomical-nose-landmarks-extractor) | Nasal ROI and landmark extraction from 3D head scans |
 | InvisibleEye *(private)* | 3D ear landmark ensemble, Huawei Munich Tech Arena 2026; 1.03 mm mean error |
 
 ## 🛠 Tech Stack
 
+![C++17](https://img.shields.io/badge/C%2B%2B-17-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Open3D](https://img.shields.io/badge/Open3D-3D8FC6?style=flat-square)
